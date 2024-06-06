@@ -1,0 +1,9 @@
+.mi_modal{
+  height: 80%;
+  width: 90%;
+  background-color: gray;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
